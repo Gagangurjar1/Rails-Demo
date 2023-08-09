@@ -1,0 +1,2 @@
+class Gurjar < ApplicationRecord
+end
